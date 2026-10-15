@@ -1,0 +1,376 @@
+[
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_atlas_unlock_01_alt_01.mp3",
+    "hash": "1d065ac0584cc99099f9c5cb5bf3fc66edc18cc8942d5f47200c8cd561af2041",
+    "text": {
+      "en": {
+        "text": "Detective Abrams was last seen wearing a Santa hat. Reports that he's looking for eggnog have not been substantiated.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_atlas_unlock_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.818
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_bebop_unlock_01.mp3",
+    "hash": "9b4b1a268fad6931e64d885391483a2d484e9baf7690f6854fa98d5d4ac95f24",
+    "text": {
+      "en": {
+        "text": "In today's human interest story, we'll cover Bebop, the plucky scrap golem in an adorable Santa hat.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_bebop_unlock_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.374
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_chrono_unlock_01_alt_01.mp3",
+    "hash": "97a227d45a44dac6959afcb408d9ab27c863ff5d378acfc7cff81e0c19b18244",
+    "text": {
+      "en": {
+        "text": "Paradox has seemingly stolen a Santa hat in what appears to be a low-stakes, yet surprisingly meaningful crime.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_chrono_unlock_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.4
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_dynamo_unlock_01.mp3",
+    "hash": "61f491fb5abeecd8cc3822d990fb096e8f53285a8c1cfe504486aeea56a24005",
+    "text": {
+      "en": {
+        "text": "This just in: Professor Dynamo rang in the holiday season with style.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_dynamo_unlock_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.441
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_forge_unlock_01_alt_01.mp3",
+    "hash": "1f8c1924ac3c3420cfdb9c6420654c96aef744d5e1b77873b15e225844bb0ff2",
+    "text": {
+      "en": {
+        "text": "Presumably walking home drunk after a Fairfax industry holiday party, notorious misanthrope Maggie McGinnis has been seen looking festive!",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_forge_unlock_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.915
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_ghost_unlock_01_alt_01.mp3",
+    "hash": "c6f61585210aaadf4852cb8361caf493eabe606c1f1532887d7bb1bcfc8de504",
+    "text": {
+      "en": {
+        "text": "Breaking news! Lady Geist has been possessed! Not by Oathkeeper, but by the holiday spirit!",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_ghost_unlock_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.269
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_gigawatt_unlock_01_alt_01.mp3",
+    "hash": "ae46ab6e24d24e02305a972464c7a49f4601dac7ecdfd3efda0997d764ecd39c",
+    "text": {
+      "en": {
+        "text": "This just in: the individual known only as Seven has found a way to make the holiday season more terrifying.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_gigawatt_unlock_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.87
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_haze_unlock_01_comp.mp3",
+    "hash": "000ad00602e2ad9a1beda09634d96da9b6c12ba6d3fd2821a937e0c3347c02f3",
+    "text": {
+      "en": {
+        "text": "Hoping to soften their image, the OSIC Sandman Division released a holiday calendar this year. It only made them more terrifying.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_haze_unlock_01_comp.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.549
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_hornet_unlock_01_alt_01.mp3",
+    "hash": "e414d72b267d0ef535564567a88e6b8665fe32ac7639c2abe8acdb8d45859a02",
+    "text": {
+      "en": {
+        "text": "Is Vindicta executing individuals with alarming frequency? Yes. Are people strangely okay with it because she's dressed as a murderous elf? Absolutely.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_hornet_unlock_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 9.456
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_inferno_unlock_01.mp3",
+    "hash": "ee2c224990fd70ff07e5407e7301a6a00e9d4bfbddb7c843c8ee7deb057dece6",
+    "text": {
+      "en": {
+        "text": "Our beloved bartender at Jezebel's has traded in his fedora for a Santa hat.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_inferno_unlock_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.702
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_kelvin_unlock_01.mp3",
+    "hash": "866c5f369df35ad2e5171ad533a8568d09eef3c49761b493b2ce64581a56dff6",
+    "text": {
+      "en": {
+        "text": "Are ice wights secretly servants of Santa? The New York Oracle investigates.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_kelvin_unlock_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.336
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_krill_unlock.mp3",
+    "hash": "bbb659dca5b570c6988cd1725584ce093915d287402cf31ff8143caafc8c3743",
+    "text": {
+      "en": {
+        "text": "A New York City mole man was spotted with a very shiny nose. Could Santa have a new leader for his sleigh team?",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_krill_unlock.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.445
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_lash_unlock_01_alt_01.mp3",
+    "hash": "6aef020151289fdec18da87198d3b01901728acafbeb315b990a8bf1cc8bc461",
+    "text": {
+      "en": {
+        "text": "Is Lash the meanest Santa of all time? Read the New York Oracle to find out!",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_lash_unlock_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.963
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_mirage_unlock_01_alt_01.mp3",
+    "hash": "add00dd0e83c2b7c75ed6eda56cc666a295a70285f28599124abfbe09b793dba",
+    "text": {
+      "en": {
+        "text": "Are the Djinn embracing western holidays? Mirage's latest headgear says maybe.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_mirage_unlock_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.042
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_orion_unlock_01.mp3",
+    "hash": "6b1e9085f42a7e8e369a8d048f7d1354f6d5ee449cae13b85279b34be4c1ad82",
+    "text": {
+      "en": {
+        "text": "Is Grey Talon looking to give the gift of murder this holiday season? Our sources say yes.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_orion_unlock_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.433
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_shiv_unlock_01.mp3",
+    "hash": "8177955d2e8b6f87d056a99ae543763faa9c4690b0c228b48691df78620a4838",
+    "text": {
+      "en": {
+        "text": "A handsome son of a bitch in a Santa hat has been seen throwing knives in Midtown. Could it be Shiv? Yes, yes, it's Shiv.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_shiv_unlock_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.975
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_synth_unlock_01_alt_01.mp3",
+    "hash": "d6e74163385bbcafd0565b80e916499af8f2c61cad67df24d9a7ff750d8aa4bd",
+    "text": {
+      "en": {
+        "text": "A street urchin in a Santa hat is making waves as they spread holiday cheer throughout New York.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_synth_unlock_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.433
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_tengu_unlock_01.mp3",
+    "hash": "139c1cb1d1a1c62df9884d453efc9bb9d928c481dfdee3920ba0a74d6dbccff9",
+    "text": {
+      "en": {
+        "text": "The savior of Spanish Harlem continues to melt New York's heart as she dispenses vigilante justice dressed for the holidays.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_tengu_unlock_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.975
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_viscous_unlock_01.mp3",
+    "hash": "f4a0671df988324691865baf0923541b4a4054fea113de5a65122005b07b68e6",
+    "text": {
+      "en": {
+        "text": "New York has been charmed by a pile of goo that embodies the holiday season.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_viscous_unlock_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.467
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_warden_unlock_01_alt_01.mp3",
+    "hash": "69745a3a3522bbb034d6910207c6be9ab6edde375fb8d707df81d9a2e2ca3dba",
+    "text": {
+      "en": {
+        "text": "Once Warden was dressed as a cop. Now he's dressed as a cop with a Santa hat. What will he look like next? The New York Oracle digs into this ever-evolving and seemingly unending mystery.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_warden_unlock_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 10.919
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_wraith_unlock_01.mp3",
+    "hash": "4e54d21f6bd7f3ac82661806273767ac16f2efb37400b0d82e7c4a91bb8d1aa4",
+    "text": {
+      "en": {
+        "text": "Is Wraith wearing a Santa hat because she lost a bet, or is she full of holiday cheer?",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_wraith_unlock_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.068
+  },
+  {
+    "id": "sounds/vo/seasonal/newscaster_seasonal_yamato_unlock_01.mp3",
+    "hash": "256f451732828081b7abe9fe253e072c0f82446052875d8b09a1cd6595449260",
+    "text": {
+      "en": {
+        "text": "Breaking news! Yamato was seen wearing a Santa hat. Somehow this makes her scarier than normal.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "seasonal/newscaster_seasonal_yamato_unlock_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.93
+  }
+]

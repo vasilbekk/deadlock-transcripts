@@ -1,0 +1,2263 @@
+[
+  {
+    "id": "sounds/vo/newscaster/guide_base_guardians.mp3",
+    "hash": "a5988aac43ca180a007d20eea6e0dd8e2e2e0ebd8b157fb6e5747cac3b8526e9",
+    "text": {
+      "en": {
+        "text": "Destroying base guardians will strengthen Each Guardian protects its corresponding lane.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_base_guardians.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 3.631
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_controls_abilities.mp3",
+    "hash": "36700a2c36bdee58c2addb1862d7b7422e9de4c3760d6757ca89ec3c51d8d377",
+    "text": {
+      "en": {
+        "text": "Press 1, 2, 3, or 4 to use your hero's abilities.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_controls_abilities.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 3.683
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_controls_aim.mp3",
+    "hash": "593e2ce3f20f1b6bfa11afa2b06e4e741e2a37fac74cf45c15e673021928d20d",
+    "text": {
+      "en": {
+        "text": "Hold mouse 2 to zoom in with your weapon.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_controls_aim.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 2.09
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_controls_jump.mp3",
+    "hash": "aba2624244a52ad1d2710130f04930ced1f62baf2d78883c661333acabcb6bff",
+    "text": {
+      "en": {
+        "text": "Press space to jump.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_controls_jump.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 1.254
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_controls_mantle.mp3",
+    "hash": "f9352512a35c4784cfb17f877d3aae20b5f7f5ba810173575105cf8304d3c52f",
+    "text": {
+      "en": {
+        "text": "Hold space when near a ledge to mantle up.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_controls_mantle.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 2.142
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_controls_melee.mp3",
+    "hash": "e5348f30c50fac48d166257558e39b389c494443e866b61900ab0900725e4950",
+    "text": {
+      "en": {
+        "text": "Press Q to use your melee attack up close.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_controls_melee.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 2.534
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_controls_shoot.mp3",
+    "hash": "0efae61ea1075aeb0c126363b518b139d9acba2891bfe6ef0c567e757a9a77fd",
+    "text": {
+      "en": {
+        "text": "Press mouse 1 to shoot. Gun damage falls off at longer ranges.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_controls_shoot.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 3.736
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_controls_zipline.mp3",
+    "hash": "222b662b97f48e88a4f19d944f90171ed8af3a6cae9f288fdb10ae0184c45860",
+    "text": {
+      "en": {
+        "text": "Hold space to get on the line. You can jump off by pressing space.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_controls_zipline.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 3.631
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_melee_alt.mp3",
+    "hash": "19fc86bd48328781602e0048bec71a5e1d2d46add2c2d85be89fe16fb75d6bf7",
+    "text": {
+      "en": {
+        "text": "Press Q to make a quick attack. Hold Q to deliver a powerful charging attack.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_melee_alt.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.042
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_neutrals_alt.mp3",
+    "hash": "7cf3136d53b0efcf6b0c255757cb4a8b86483898b34a3e3fc393cc2275d7ae72",
+    "text": {
+      "en": {
+        "text": "There are many neutral creatures lurking around the map. Defeat them to earn souls. Sometimes, a powerful creature will appear at the center of the map. Defeating it will offer your team great power.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_neutrals_alt.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 10.606
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_power_abilities.mp3",
+    "hash": "4d32b4b91cd0af82a93db3a31871610d1e63f40b7424be901d8618975f717abd",
+    "text": {
+      "en": {
+        "text": "Spend ability points to upgrade your abilities. Abilities have three upgrade tiers, and you upgrade them in order.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_power_abilities.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.904
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_power_ap.mp3",
+    "hash": "8cc8c86d14b5f481e39669a84df78c8686ad51e8ebd06b597f5a5cdaea19238d",
+    "text": {
+      "en": {
+        "text": "As you collect souls, you'll also be granted ability points. You can spend these points to upgrade your abilities by holding tab.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_power_ap.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.4
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_power_creds.mp3",
+    "hash": "623bb99152c6f3edd6f7351fa53ec11e9308e903834183c170dc9a0b2ba731ed",
+    "text": {
+      "en": {
+        "text": "Get souls by killing troopers and players. You can also get souls by killing neutrals, located throughout the map. Souls are shared among allies nearby.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_power_creds.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.124
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_power_mods.mp3",
+    "hash": "8de9d018704392557f059eef2f8b1c0b6d98fb037a933598211580de463d754a",
+    "text": {
+      "en": {
+        "text": "Items can modify a variety of things, like ammo count, melee damage, or health regeneration. Items that increase Spirit Power improve the effectiveness of your abilities. There is a suggested items tab with hand-picked recommendations for each hero.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_power_mods.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 12.382
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_power_secure.mp3",
+    "hash": "12ca69316bba86d2d2880024b6f13682764763515b4868a4b4485be1069e6e44",
+    "text": {
+      "en": {
+        "text": "When you land a killing blow, extra souls appear. You can secure these souls by shooting the green orb containing them or letting them float away.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_power_secure.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.818
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_power_secure_alt.mp3",
+    "hash": "7723e5729200f01db36107287de810d262167b224fd0938f28af5a4ff7b3d348",
+    "text": {
+      "en": {
+        "text": "When an enemy dies, extra souls appear. You can secure these souls by shooting the blue orb containing them or letting them float away.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_power_secure_alt.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.706
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_power_shop.mp3",
+    "hash": "f7e3dc45ce27093834ff5f09c107ca94458cb1abb138382bd8d04d482da628db",
+    "text": {
+      "en": {
+        "text": "When you have souls to spend, go back to base to heal and buy powerful items that increase your stats and grant additional abilities. There's also a shop next to each Guardian, available until the Guardian is destroyed.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_power_shop.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 11.18
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_power_steal.mp3",
+    "hash": "815094fc934ec3410db67161b2b144812e2aa9bc23bc8df0e70451e72f38b922",
+    "text": {
+      "en": {
+        "text": "Enemy soul orbs are orange, and enemies will get them if they float away or if they shoot them. You can shoot these orange orbs first to steal them.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_power_steal.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.445
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_special_airdash.mp3",
+    "hash": "82a669e8b0b43d9254d247fcb6271aca664e6ef1786c64b2fc4bf33ff679e46c",
+    "text": {
+      "en": {
+        "text": "While airborne, Dash to perform an air dash.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_special_airdash.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 2.873
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_special_dodge.mp3",
+    "hash": "f54be2b1e764826f8c4cd62c684b0feec6131635edc3095adc3db14f135cdf5c",
+    "text": {
+      "en": {
+        "text": "While moving, press left shift to dash.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_special_dodge.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 1.985
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_special_dodge_jump.mp3",
+    "hash": "aafcfabf6afd69e1a554834713a15e5ac05a720f6be858fab44fa4a6e8ee07c2",
+    "text": {
+      "en": {
+        "text": "Combine a dash and a well-timed jump to perform a dash jump.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_special_dodge_jump.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 3.318
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_special_double_jump.mp3",
+    "hash": "11b0f38d825db9782394b4d8f4e1fc2c8119d15f84f0fee75d82ff668a83877e",
+    "text": {
+      "en": {
+        "text": "Press space at the top of a jump to double jump. Special moves like double jump use your stamina bar, located next to your reticle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_special_double_jump.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.896
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_special_parry.mp3",
+    "hash": "e77899110ecfc14fb2b5c385a22e77849194ec0805ef37bddfdde5f4b2027216",
+    "text": {
+      "en": {
+        "text": "Press F to parry an enemy hero's melee attack. They'll be stunned and will receive increased melee damage.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_special_parry.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.407
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_special_slide.mp3",
+    "hash": "2080e5c2bcfc0facbb6c3a92385d89bb843a0c65afbb45d9741896f50514f2f0",
+    "text": {
+      "en": {
+        "text": "Hold left control to slide while moving down a ramp or moving at high speed.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_special_slide.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 3.971
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_the_base_alt.mp3",
+    "hash": "81e3443650ffec7e7352a5cf4f4bc07aff9327c8543aa44088e98a0a74589783",
+    "text": {
+      "en": {
+        "text": "Your goal is to siege the enemy base and destroy their defenses to reveal their team's patron. Destroy the patron, and victory is yours.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_the_base_alt.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.15
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_the_map_guardian.mp3",
+    "hash": "08790df7cfa67efee3cee6f4ac697530e30137139579d9370e8bb9e1021ef7a3",
+    "text": {
+      "en": {
+        "text": "Guardians are the first line of defense in each lane. Their attacks are very powerful, so it's best to push into them with your troopers.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_the_map_guardian.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.497
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_the_map_lanes.mp3",
+    "hash": "ba02be06eaaf4e92be6ab6c1418a4ea3b95e6daeacf151591ba3202534951ea0",
+    "text": {
+      "en": {
+        "text": "There are three lanes, each with a transit line that players can ride to move quickly.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_the_map_lanes.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.31
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_the_map_troopers.mp3",
+    "hash": "0634bad699e80bf1225b5874c5a44579726ab5244b6c9f904ac6cf119c89d5b6",
+    "text": {
+      "en": {
+        "text": "Troopers periodically spawn in the base and then run down a lane, fighting any enemies they encounter.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_the_map_troopers.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.538
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_the_map_walkers.mp3",
+    "hash": "3968ec1037f15e27ee726736510b2a55ae7f11bf00581d0522475e08af73eb7a",
+    "text": {
+      "en": {
+        "text": "Walkers lie deeper in the lanes and have an arsenal of defensive moves.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_the_map_walkers.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.18
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_the_map_welcome.mp3",
+    "hash": "5a0e0c1fee9e01777c9c1f51a5e43d8a9e610eeb1a710a005629448f705ffc12",
+    "text": {
+      "en": {
+        "text": "Welcome to the Cursed Apple. If your team wants to emerge victorious, you'll need to wield both guns and supernatural powers to lay siege to the enemy base.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_the_map_welcome.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 9.404
+  },
+  {
+    "id": "sounds/vo/newscaster/guide_the_map_welcome_alt.mp3",
+    "hash": "b0d11e8ea25d2cc730b8e24240924f4269328ad54401f6f5b8787f511b3d69c2",
+    "text": {
+      "en": {
+        "text": "Welcome to the Cursed Apple. If your team wants to emerge victorious, you'll need to wield both guns and supernatural power to lay siege to the enemy base.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/guide_the_map_welcome_alt.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 9.822
+  },
+  {
+    "id": "sounds/vo/newscaster/news_reel_test.mp3",
+    "hash": "e8d8980be0f2bc2e08762d1c6cd07cfdd251781d3dca7eaa7523cdedf58fd25c",
+    "text": {
+      "en": {
+        "text": "When summoning the patron, you may hear your allies call out, Let's go mid! Fear not, your teammates aren't having a stroke. They're merely trying to direct you towards the Rejuvenator, a powerful relic that can give you mastery over death itself. But in order to claim the Rejuvenator, you must first defeat a powerful entity that protects it. Kill the entity, punch the Rejuvenator, and fear death no more. For more ritual survival tips, get your copy of the New York Oracle today.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/news_reel_test.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 29.231
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_01.mp3",
+    "hash": "8ab071589a9926c116db188e24b000ac7d79615fc9bbf81d65e10cf30d5fdfe0",
+    "text": {
+      "en": {
+        "text": "Come, friends! The New York Oracle isn't just the news, it's a glimpse into the future!",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.016
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_01_alt_01.mp3",
+    "hash": "0c51d1cb053b561bed54c9f3bba59da0750cee9299361dd10bf1e1f5836775e0",
+    "text": {
+      "en": {
+        "text": "Come, friends! The New York Oracle isn't just the news, it's a glimpse into the future!",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.042
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_02.mp3",
+    "hash": "e372bd355e77c4f7a95a24232e97eec57b369239d88d48b2e419eb2b6763bdec",
+    "text": {
+      "en": {
+        "text": "What calamities await New York? For five measly pennies, our prognostications can be yours!",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_02.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.407
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_03.mp3",
+    "hash": "fd61680b0a2d0967b7085b4ba8607aa3e9261d003b0418a11e24406906b216fe",
+    "text": {
+      "en": {
+        "text": "Once an eclipse changed the world. Who knows what today's celestial event will bring.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_03.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.885
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_05.mp3",
+    "hash": "0d8eb0ce2950260c452312bb0123aad841a467d4e1051291c2275f51865ae2a3",
+    "text": {
+      "en": {
+        "text": "Is Harry Houdini really dead? Recent reports suggest that the legendary magician's final trick was to escape death itself.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_05.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.74
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_06.mp3",
+    "hash": "27070e39813aed0f0d4ac2efde730fbfcea4475885cfff1df39565381e6deca9",
+    "text": {
+      "en": {
+        "text": "The New York Oracle, bringing the future to the present for over 20 years.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_06.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.127
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_07.mp3",
+    "hash": "4c14bf9dd5aae87736a01d3a84f0aee1c33da62454cb0007f1739be86eb6e7ec",
+    "text": {
+      "en": {
+        "text": "Is your refrigerator communing with the dead? Buy today's edition of the New York Oracle and find out!",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_07.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.224
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_08.mp3",
+    "hash": "15bb0829cf83aa2198b086fe9968f67d22c5700ea53ea14a288ed112df3b2abb",
+    "text": {
+      "en": {
+        "text": "Today in Science Watch, researchers discover a parallel universe where spirit boards are nothing more than a child's toy.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_08.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.374
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_10.mp3",
+    "hash": "1699dba9774764b2bedb3c147affb12999eb28b3c754b58f1fcff53015954dd7",
+    "text": {
+      "en": {
+        "text": "Extraplanar fashion icon Roshbark exposed as being nothing more than a human using a glamour cantrip! Read about this and more in the New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_10.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 9.509
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_11.mp3",
+    "hash": "a32b90bc383821d6c6f9f0c1854779422ffe61c4cbd965b28cb5602212ea90f2",
+    "text": {
+      "en": {
+        "text": "Are human sacrifices on the rise? Read today's news to find out!",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_11.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.232
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_12.mp3",
+    "hash": "c5817128f19e5769562b70c9d7f9a23083777e2b5c03770530e6909e83f90a7c",
+    "text": {
+      "en": {
+        "text": "Who says the future is unwritten? Purchase your copy of the New York Oracle today!",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_12.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.545
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_15.mp3",
+    "hash": "55e5e46e6d2e20f386651a8f46c602ef0b72d3b46d630c4bf08a6ff52a35dcad",
+    "text": {
+      "en": {
+        "text": "This week in the New York Oracle, Warding your house on a budget.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_15.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 3.84
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_16.mp3",
+    "hash": "558914d72e20ea09d873b3bf5d551e5a4824d357c283bd5682a1704aa59f74f0",
+    "text": {
+      "en": {
+        "text": "Read our exclusive interview with Professor Dynamo to hear his thoughts on astral gates, the eclipse, and what it's like to live life without a body.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_16.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.732
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_17.mp3",
+    "hash": "261ff94915bd7e01dd368115a295cfb0d93650d83ccc3218336345c1d2b448eb",
+    "text": {
+      "en": {
+        "text": "The OSIC has issued a warning to the city of New York, recommending that citizens stay indoors for the duration of the celestial event.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_17.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.713
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_19.mp3",
+    "hash": "7d523a8e42086d157feecc244b00b772859d2808478f332b3dfde77a62dbaee9",
+    "text": {
+      "en": {
+        "text": "Bunco, party game or ritual component to the Soho Coven? It's a little of both.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_19.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 5.669
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_20.mp3",
+    "hash": "a772a311f75c7db805effd67fae8e6d5e44c378520c384a28a62d7491c88f0b8",
+    "text": {
+      "en": {
+        "text": "The Supreme Court today upheld Sinderma versus the State of Alabama, paving the way for the Spirit's congressional bid. Read all about it in the New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_20.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 8.359
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_21.mp3",
+    "hash": "3b06a61484dbb359d290047f11f5e144989a925af275c11ffb1421b10c87f155",
+    "text": {
+      "en": {
+        "text": "Is dating in the 1900s too complicated? These 20-somethings tell all.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_21.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.702
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_22.mp3",
+    "hash": "ced7959355f02547ce970d7480687a2e154f9bbd11d2cdead32a397c1a6d9229",
+    "text": {
+      "en": {
+        "text": "A memoir by Incubus to the Stars, Mikhail Lesan, has spent three weeks on top of our bestsellers list. Learn more about the book that has everyone talking in this week's edition of The New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_22.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 10.005
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_23.mp3",
+    "hash": "bdde358d224065d365f06e672f20f4642dd41d0b6aecd065c249cc05b78f6dee",
+    "text": {
+      "en": {
+        "text": "The Tome of Anubis, once thought lost to the sands of time, was purportedly spotted here in New York's black market. For this story and more, pick up your copy of the New York Oracle today.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_23.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 9.718
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_24.mp3",
+    "hash": "95e9ed86733ad220be6a10e2dc9baecb59b8ed83c0f20dca7d5aef007b1890bc",
+    "text": {
+      "en": {
+        "text": "Artifacts of the Outer Planes, a new exhibit at the Met, is gearing up to open next month. Read all about it in the New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_24.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.053
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_26.mp3",
+    "hash": "9a0276c3ebfe36805e4e4fed4bdd07bc588a55330ff8d700dd7c9514276f4861",
+    "text": {
+      "en": {
+        "text": "Is New York ready for a new age of mysticism? Only time will tell.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_26.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 3.997
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_27.mp3",
+    "hash": "2ce2acc1c0b15851fbd1bc38e6a44a899c25a768ecbb57f35174358d0768748b",
+    "text": {
+      "en": {
+        "text": "Have love potions ruined dating? See what relationship expert Madame LaPree thinks.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_27.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.65
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_28.mp3",
+    "hash": "543d61821d08e05b4f747f9bc0639a0ffe43803f9592d48eec823e5821739729",
+    "text": {
+      "en": {
+        "text": "A tour group disappeared while spending the night in a haunted Chelsea hotel, leaving mediums and police baffled.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_28.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.538
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_29.mp3",
+    "hash": "cec5f2f38139fb615f361abd05e1b75f347e0cb083867e1cb2f1070b9e9f59be",
+    "text": {
+      "en": {
+        "text": "In today's edition of the New York Oracle, we investigate which items in your apartment are most likely to be cursed. You won't believe what we've found.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_29.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.124
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_30.mp3",
+    "hash": "1c6bb22f22f9b80490769b7de0ff8b233a2e5ffb1be961a1a70c768c055508f2",
+    "text": {
+      "en": {
+        "text": "Police crackdown on black market ritual components has sent shockwaves throughout the Bronx.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_30.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.284
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_31.mp3",
+    "hash": "d5f770820b36aed1dd907e8c3c2d7c4747a7301136193a65a38ba3af92ec972e",
+    "text": {
+      "en": {
+        "text": "An eight-year-old concert pianist dazzled audiences last night, but was the Long Island native a child prodigy or simply possessed by an 18th-century composer?",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_31.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 9.404
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_32.mp3",
+    "hash": "ba7c2ed3f6407a38763ef33a350dcd244c8717c9d170d6635470e74fd174eb88",
+    "text": {
+      "en": {
+        "text": "Is eating werewolf meat cannibalism? We asked some of New York's elite chefs to get their take on the new dining trend that's taking Paris by storm.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_32.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.49
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_33.mp3",
+    "hash": "18fc4a2c94866419f3db7ca7ab75fca61adfe6ac8996486185d442dfc169cc62",
+    "text": {
+      "en": {
+        "text": "Congress debates possible alchemy restrictions. Read all about it in the New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_33.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.389
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_34.mp3",
+    "hash": "5c4a372dc663363e0f8314fcb33d4edf9c8dc4699d65c6a6b8572839d104f8f9",
+    "text": {
+      "en": {
+        "text": "The Grey Coven leaves audiences spellbound. Read the New York Oracle's review of the latest off-Broadway sensation.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_34.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.609
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_35.mp3",
+    "hash": "e931f1dc26aab693c6435fd09ba062519b2788111a41054d1a805308433e3a36",
+    "text": {
+      "en": {
+        "text": "Is your local doomsayer insane or secretly a prophet? We ask experts how to spot the difference.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_35.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.642
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_36.mp3",
+    "hash": "39562e2071aa7bac98a2d516399a39d1c32d591dfb6d6f19dad5f95a8ff23511",
+    "text": {
+      "en": {
+        "text": "Political firebrand or founder of a new Inquisition? Read our exclusive interview with John Hathorne and decide for yourself.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_36.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.079
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_37.mp3",
+    "hash": "04c36c2c9aa1e0aa4a29352db175274656680e379e9293a2fb22e20ec6ebf50d",
+    "text": {
+      "en": {
+        "text": "Are anti-occult sentiments on the rise? The New York Oracle investigates.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_37.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.362
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_38.mp3",
+    "hash": "fc0cbbbd96cd46bf75d6eb4b5b088d395527ddca58702bf353c8ffa19aabf056",
+    "text": {
+      "en": {
+        "text": "Late last night, Nathan Weiss, the center for the Knickerbockers, was found with their legs broken. Reports that it involved a gambling debt to a Madison Avenue curio shop owner have yet to be substantiated.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_38.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 9.848
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_39.mp3",
+    "hash": "9eb11a129b59a03f35af941749c0a1e5673082c330f3eb00a7049d0a0915decb",
+    "text": {
+      "en": {
+        "text": "Rodgers and Hammerstein's latest musical, South Pacific, has become the hottest ticket in town, with some would-be theatergoers selling one-eighth of their souls to scalpers for prime seating.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_39.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.594
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_40.mp3",
+    "hash": "09b00ee87b67e9e1f32cd60b93ce18cea82f7651cf065985a026cb0d2e3d6071",
+    "text": {
+      "en": {
+        "text": "In world news, a seventh astral gate has been found in Europe. While dormant, experts wonder if the celestial event could cause it to open. For this story and more, pick up your copy of the New York Oracle today.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_40.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 11.18
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_41.mp3",
+    "hash": "e15f3a8abbd944f34582af1922d081f2eeb0877d2b04584998425d82c1cbd27a",
+    "text": {
+      "en": {
+        "text": "They thought they were making ashtrays, but this first-grade class in Harlem was actually making phylacteries. Read the disturbing tale of art class malfeasance in the New York Oracle today.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_41.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 10.371
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_42.mp3",
+    "hash": "584d96438a62ff95e62c3f84d7b8c2db2c1b80eceda16a2c6ac59c8c25bc0f4b",
+    "text": {
+      "en": {
+        "text": "Daylight savings time. Is it still needed in the modern world? We speak to Midwest agromancers to get their take.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_42.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.669
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_43.mp3",
+    "hash": "595fbd37bd0ad9192e982375b64cbbe0241607f9cba959cbeed2094a2a107a4d",
+    "text": {
+      "en": {
+        "text": "The Klansky trial has taken a dramatic turn today, as Miserhart took the stand to claim that Erik Klansky's botched exorcism caused the spirit inhumane pain and suffering.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_43.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 8.986
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_44.mp3",
+    "hash": "340304bb4a5979687a93e539adef91f048487bf5f4c63ec926a5e0040b105731",
+    "text": {
+      "en": {
+        "text": "How young is too young to talk to your children about hexes? The New York Oracle speaks to a child therapist to find out.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_44.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.296
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_45.mp3",
+    "hash": "e88fdb88c13cb5f88d7d464b6fb3bb6ebee5d586a488f5f44515bcf725b09a54",
+    "text": {
+      "en": {
+        "text": "A murder of crows suspected to be the infamous serial killer known as the Troubadour was spotted flying over Champaign-Urbana today. Could he be flying to New York?",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_45.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.49
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_46.mp3",
+    "hash": "4bd45302bf22d98781aee398032566c5c2f6b5987c12d142674f973b1578b7ba",
+    "text": {
+      "en": {
+        "text": "A necromancer harvesting fear from the Coney Island Cyclone was arrested today. Coney Island officials could not be reached for comment.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_46.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.165
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_47.mp3",
+    "hash": "915e12bcd3a85fde5d9cd0201016d6596649c29ba00776d14ba0ab525ae78e6f",
+    "text": {
+      "en": {
+        "text": "B Line continues to be closed this week. While the mayor has not spoken publicly on the nature of the closure, inside sources suspect it may have something to do with a sewer spirit.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_47.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 8.411
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_48.mp3",
+    "hash": "82bb4f1caa0d1deb72959ed5419dc885496e825779b5e414c9725a0a8a3a5f87",
+    "text": {
+      "en": {
+        "text": "Looking to take your kids to the Bleak Carnival? Pick up your copy of the New York Oracle to find out how to keep your family safe.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_48.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.609
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_49.mp3",
+    "hash": "05d6e58d3df18b120e97d7e53240eff59d74292aa8078614501c29347a9f56d7",
+    "text": {
+      "en": {
+        "text": "New York natives hoped that magic would help solve the city's rat problems. Sadly, it only made them stronger.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_49.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.695
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_50.mp3",
+    "hash": "d1692bcf4c67eafc890a0dc3443e9cba04e019fcd9604e4d723d73eedfe7029f",
+    "text": {
+      "en": {
+        "text": "Science catching up to mysticism? It seems impossible, but these metaphysicists aren't giving up.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_50.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.329
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_51.mp3",
+    "hash": "2486dc9f165e068eaf0ec17a6e18a9c451ac2fea24081e558a65ed64912fdb10",
+    "text": {
+      "en": {
+        "text": "Djinn Ambassador Nashala Dion has arrived in New York as negotiations continue, but is the U.S. government really okay with selling Wyoming? For this story and more, pick up the New York Oracle today.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_51.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 10.24
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_52.mp3",
+    "hash": "90635d481dab0bfd985bbf31cc2a67195b29fc0b1bd3f5b91f0bbd1fea5f6318",
+    "text": {
+      "en": {
+        "text": "George Frederick Cooke is primed to take the stage once more, but are audiences ready to see a headless ghost as a leading man?",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_52.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.799
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_53.mp3",
+    "hash": "1ecad9998ba21a10be879bde1a526295d364e69a1579b5c5b2f37443a463b9ca",
+    "text": {
+      "en": {
+        "text": "Is Trinity Church an undead time bomb waiting to explode? We talk with premier necromancer Frederick Totten to get his take.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_53.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 6.557
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_54.mp3",
+    "hash": "d4d9e6f737f82ff0a16b45c04df43efe48b72497a12fc912b9861129e549327f",
+    "text": {
+      "en": {
+        "text": "An attempt on John Hathorne's life has raised security concerns for the controversial speaker's upcoming New York appearance.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_54.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.113
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_56.mp3",
+    "hash": "5a55f568951a517503953d9f92b8a3244c889bf176f6972d5bb5e2144a9e79a9",
+    "text": {
+      "en": {
+        "text": "Have you been curious about the mysteries of the Black Chateau? For the first time in its August history, the Chateau's doors are being opened to the New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_56.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.255
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_57.mp3",
+    "hash": "c929834f388767e22ab0958fb616cedc9be8f42030a1411082419ef7ffe3d546",
+    "text": {
+      "en": {
+        "text": "The Occult Security and Investigation Commission has opened a new office in New York. We hit the streets of Manhattan to find out if people feel more safe or more concerned.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_57.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.908
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_60.mp3",
+    "hash": "337cbc5f453a9b95b71bf7ca618c1a1a2f2a0fde5e74b17c4b07d44731059bfd",
+    "text": {
+      "en": {
+        "text": "The Mendoza syndicate may have been driven out of Spanish Harlem, but is their criminal empire truly gone? We talked to local law enforcement to get their take.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_60.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.393
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_61.mp3",
+    "hash": "01c3044557e222de4ecf65f0e47b8769abae3066ec76fab0effd58bda583e2a1",
+    "text": {
+      "en": {
+        "text": "The New York Oracle's own Allie Kincaid sits down with occult magnate Maximilian Fairfax in an exclusive new interview. Read his thoughts on family, the Ixian War, and the future of the supernatural in our world.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_61.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 11.416
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_62.mp3",
+    "hash": "d797be43c77b99bcf288140bb9ab50660ecd23037cc22905218e96cab60f6a3a",
+    "text": {
+      "en": {
+        "text": "Cadence and the Requiem Boy's new single, Paying the Price, has been tearing up the charts, but should parents be concerned about lyrics that some say glorify human sacrifice?",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_62.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.594
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_63.mp3",
+    "hash": "861bbc3e06269d94ecbe825619e8f47713fc976130f564faf4678774914a9a3f",
+    "text": {
+      "en": {
+        "text": "Next week will mark the five-year anniversary of South Ixia officially joining the United States as its 52nd state. See how folks are planning to celebrate across the country in today's edition of The New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_63.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 11.363
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_64.mp3",
+    "hash": "ae9d07d52a406cf11187e5d491c18108787ccd16f8ed6cedb14e9c468fc50c06",
+    "text": {
+      "en": {
+        "text": "As the military campaign in Ixia continues, the controversial political organization Friends of Humanity announced a rally in New York to demand the U.S. cease sending aid to the outer planes.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_64.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 10.136
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_65.mp3",
+    "hash": "9aaa4d2c4ed3d65819b4ba9533c799954fa2992508c9e2b829500cd13fde1332",
+    "text": {
+      "en": {
+        "text": "Eldritch Tactical Solutions, a subsidiary of Fairfax Industries, comes under fire as new allegations are made by former employees. Are these soldiers of fortune committing war crimes? The New York Oracle investigates.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_65.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 11.703
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_66.mp3",
+    "hash": "39d53b4b09b22213f4ff95bcd5e3203a9e63365fffe6492a47e3b953ae67c02a",
+    "text": {
+      "en": {
+        "text": "Looking at taking a vacation to Ixia? Read the New York Oracle for helpful travel tips to the outer plains.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_66.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.46
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_67.mp3",
+    "hash": "bc21ed284aef094b33586925dff8a0460777edfef8ba025c3976844c30b2669a",
+    "text": {
+      "en": {
+        "text": "We were told that Lost Whisper was impregnable, but is there any truth to the rumor that a dangerous inmate escaped? The New York Oracle investigates.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_67.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.967
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_68.mp3",
+    "hash": "5334af07a9c346b647d7b9b9fad1da75e491aae9610eb811950c5a78572cc2f6",
+    "text": {
+      "en": {
+        "text": "Airships have made travel faster than ever, but not everyone is comfortable putting their safety in the hands of a zephyr. Are those concerns reasonable, or just misplaced fear?",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_68.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.49
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_69.mp3",
+    "hash": "2f5557f72fe3e7f3347da25dc467dcacd65d6966a0bae6626b11f164bc80868e",
+    "text": {
+      "en": {
+        "text": "The Museum of Modern Art recently announced a special gallery showcasing the work of late German artist Johann Geist.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_69.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.956
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_70.mp3",
+    "hash": "83fd70fc963978cce4e02190477fb45ee9de3331a15b4d3de9bd5346a6938d22",
+    "text": {
+      "en": {
+        "text": "Anton's fine monkey paws has been temporarily closed after it was discovered that some of their stock was corrupted by a wish twister.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_70.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.288
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_70_02.mp3",
+    "hash": "57179a1f04267d3807cf109a6fd253ee8bb5cc131c897b3032b7e753d74fa543",
+    "text": {
+      "en": {
+        "text": "Anton's Fine Monkey Paws has been temporarily closed after it was discovered that some of their stock was corrupted by a wish twister.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_70_02.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.079
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_72.mp3",
+    "hash": "d119dfee50e585c732abcd78135bd6625f4c48e34c3baeddfba651b6c7700b15",
+    "text": {
+      "en": {
+        "text": "Bakers across the country nervously await the Supreme Court's ruling on the legality of selling ensorcelled bagels.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_72.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 5.198
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_73.mp3",
+    "hash": "a23add21272adcb2d450f3a426b25f91de84924f7065900093b9819657ce5ccc",
+    "text": {
+      "en": {
+        "text": "A Soho cat cafe run by familiars has charmed the community, but to owner's mittens and peppermint, it's just another day making biscuits.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_73.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.706
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_74.mp3",
+    "hash": "820aa3b2b35e9098771044908dc2df0f3e89fa85758ed28ee1ab9bcdfc1a6f01",
+    "text": {
+      "en": {
+        "text": "A local con artist was arrested for trying to sell real estate in the underworld. Read the strange tale of escrow and Armageddon in this week's New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_74.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.124
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_75.mp3",
+    "hash": "a17b8286d6e96edefab2914676c0bd71b793d71a7d3ba06b5de8cfb5138c540e",
+    "text": {
+      "en": {
+        "text": "Could your neighbor be a shapeshifter? Read all about the telltale signs of lycanthropy.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_75.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.258
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_76.mp3",
+    "hash": "7a162bd81c6982d238f35c9149ff346a83404c298568bd8565edac10590c1dbc",
+    "text": {
+      "en": {
+        "text": "The New Jersey Devil continues his reign of mediocre stand-up performances, as the cryptid's latest set receives more jeers than cheers.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_76.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.471
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_77.mp3",
+    "hash": "15f155835e81ded056b2d3db0204850ed57cee556275c84ea5ff8e61aaa73af5",
+    "text": {
+      "en": {
+        "text": "The EPA has issued another sanction to Fairfax Industries, citing their improper disposal of spiritual waste was not just an affront to nature, but a threat to it.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_77.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 9.091
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_78.mp3",
+    "hash": "df6cffe76c8e2574a9c798439333a86bba0313e49dad252739beb5fb6532de47",
+    "text": {
+      "en": {
+        "text": "The Supreme Court is poised to rule on the Fairfax Fair Tax Bill next session. Will our 50th state remain in the Union, or will Fairfax Industries successfully regain its sovereignty over the island of Cadenza? Only time will tell.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_78.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 13.113
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_81.mp3",
+    "hash": "26163a281c909a42a71ce03f12e95cd2c9abe18991bfe303a7204ddc2d2ae62a",
+    "text": {
+      "en": {
+        "text": "The international bestseller for queen and coven, highlighting the daring exploits of the queen's own 13th airborne assault coven, is under fire as representatives of the crown claim that some of the operations detailed in the tell-all violate the nation's scrying laws and pose a national security risk.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_81.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 16.927
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_82.mp3",
+    "hash": "baffe10aefe0e849d9c3bae254270b3d545dd9216f05abe173b006779e10288f",
+    "text": {
+      "en": {
+        "text": "Is the doll in your attic plotting murder, or simply a trapped soul praying for a death that will never come? We talked to local artificers to find out how you can tell the difference.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_82.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 9.665
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_83.mp3",
+    "hash": "01c14e4076c51abe69e63f433c0e05aeb76f2c59b81133f13c9829d442dace42",
+    "text": {
+      "en": {
+        "text": "Is it ethical to put children under a geis? The hot new parenting trend has kids making their bed every morning, but some experts warn that supernatural compulsion could run the risk of hurting long-term relationships between parents and their kids.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_83.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 13.61
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_84.mp3",
+    "hash": "7e3ae70f7ef79fa1cea460a5610ca8dc3c20047813dd9a9ae5d663cfe03700d0",
+    "text": {
+      "en": {
+        "text": "Are voodoo dolls acceptable disciplinary tools in high school? A Brooklyn math teacher looking to test the outer bounds of tenure certainly thinks so. Read all about what happens when geometry goes bad in today's New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_84.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 12.643
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_headline_85.mp3",
+    "hash": "ed3b5b61c4794670ce59c3bf990415e7c08a8d25d656e79c81f7f1b5e3005671",
+    "text": {
+      "en": {
+        "text": "Expecting parents have long kept the names of their babies secret, but now a new OSIC hex report has some families questioning about ever revealing their children's true name. Readers weigh in with their thoughts in today's New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_headline_85.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 13.14
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_01_alt_01.mp3",
+    "hash": "4923fe8aaa2cd6dcab5e824e43de4c0b575ad16992ebc24aa0a13c7dea1f5414",
+    "text": {
+      "en": {
+        "text": "Happy holidays from your friends at the New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_01_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 2.952
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_02.mp3",
+    "hash": "23a482dbf455a137b9ea00989d4e465784b73f3648d488779cb837efc7040f8e",
+    "text": {
+      "en": {
+        "text": "Need a gift for someone special? Then get them a box of Twin Omen Cigars! That's Twin Omen Cigars, a proud sponsor of the New York Oracle.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_02.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.229
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_03.mp3",
+    "hash": "8e186629888ed2d28afd482e147b5b86f563455bbb9441cfb75949fbff2b4e57",
+    "text": {
+      "en": {
+        "text": "Protecting your family from Krampus! Are gingerbread wards enough?",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_03.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 3.37
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_04.mp3",
+    "hash": "4bb71e4f5f2d80179e0fbc52b9bfe3e74962b3c2a694b15e63afcdf99527fb34",
+    "text": {
+      "en": {
+        "text": "This month, Maximilian Fairfax made headlines after donating a small fortune to New York orphanages. When asked about his generous act, the CEO of Fairfax Industries replied, \"No one should be without family on the holidays.\"",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_04.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 12.748
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_05.mp3",
+    "hash": "a49f976e388cdaa03576f4ba49c22eae70bec56a273cef637d1e6a5d8788cb03",
+    "text": {
+      "en": {
+        "text": "Rockefeller Center is teeming with skaters as the holiday season is in full swing.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_05.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.78
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_06_alt_01.mp3",
+    "hash": "40aaee5a309fbd31a4706fed9ea29e612795a4d8964ed28805397752ad719c62",
+    "text": {
+      "en": {
+        "text": "The Yeti of the Yukon Lumberjack Show has thrilled Canadian audiences for years. Will they find the same success as they begin their first U.S. tour this winter?",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_06_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 9.247
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_07_alt_01.mp3",
+    "hash": "5d2baab749c4358260b6047a8f8db4ab2e978371571927401e3bf42e2e1446c5",
+    "text": {
+      "en": {
+        "text": "The holidays are upon us! If you're naughty, beware.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_07_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.232
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_08.mp3",
+    "hash": "bae7a9f98060d24e41495a43c4baaaf82cbbcad7905ffa3f3fbcb58df53b1c6c",
+    "text": {
+      "en": {
+        "text": "The OSIC has issued a statement reminding citizens that North Pole expeditions are illegal without a permit.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_08.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.269
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_09_alt_01.mp3",
+    "hash": "f2acf453a1d29620bc66bf069b0d4a7e2e682580919a82de523d3dd5f3c09562",
+    "text": {
+      "en": {
+        "text": "The Knickerbockers' losing streak continues after a humiliating defeat to the Celtics. In unrelated news, no one likes the Celtics.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_09_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.445
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_10.mp3",
+    "hash": "634778e73dc2a7892c47baaf0e93f532c676450271b405b387bc7640f44d504f",
+    "text": {
+      "en": {
+        "text": "Looking to make this holiday season more magical? Curse your enemies!",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_10.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 3.709
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_11.mp3",
+    "hash": "b99d717137d12bffebe0116f3d15442218af07e7ef9609b829a79148dd20f8b2",
+    "text": {
+      "en": {
+        "text": "The editorial staff at the New York Oracle would like to issue a formal apology for a recent headline that encouraged hexes for the holidays.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_11.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.217
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_12.mp3",
+    "hash": "165c201aaf6bc32cb661ea7649b28040f7a352617ea1ac90cbda5c165fbfaf8d",
+    "text": {
+      "en": {
+        "text": "New York anxiously awaits the arrival of Kris Kringle. Have you been a good boy or girl this year?",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_12.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.747
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_13.mp3",
+    "hash": "3ca9d43961f1fea8f4cbaf5994ff7d515aff381dc4fb3aecc615cca70eab15d3",
+    "text": {
+      "en": {
+        "text": "The tree is lit, the rockets are kicking, and magic is in the air. It's holiday time in New York!",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_13.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.348
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_14.mp3",
+    "hash": "50202d24ebd7e231e03ec70e0bf8bd87f94b9cb17fdc408ad02ab1722aeb317f",
+    "text": {
+      "en": {
+        "text": "A controversial department store window display left some parents outraged. For more on this story, pick up your copy of the New York Oracle today.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_14.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.046
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_15.mp3",
+    "hash": "0b7bbbba335215c2ebff0552e7a1ad9896c00ac76faf65757f095b037c23e53a",
+    "text": {
+      "en": {
+        "text": "The Ixian War tops this year's list of topics most likely to start a fight at holiday dinners.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_15.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 5.068
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_16.mp3",
+    "hash": "358afb04163e03ae4e0cfa08b95f9cb5b8f9c1fe8252c63a5e48b5891ba0a26b",
+    "text": {
+      "en": {
+        "text": "The Oracle's own Allie Kincaid teases that her next interview will be electrifying.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_16.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.486
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_17.mp3",
+    "hash": "1413430a34bee55739033991777dadb4f7133305ad52b50f364de7279121443e",
+    "text": {
+      "en": {
+        "text": "Snowmen. Don't mess with them. Just in case.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_17.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 3.605
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_18_alt_01.mp3",
+    "hash": "47e925ede29d0f593840d899e578694778d41c5c2a04bb3dd69006e326af1858",
+    "text": {
+      "en": {
+        "text": "Planning on going caroling this year? This week's edition of the New York Oracle offers useful tips on how to raise spirits, but not raise spirits.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_18_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 8.176
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_19.mp3",
+    "hash": "cd166a9dd560dea7618f90aa56e156bf3e442576a3d55c3d61f97a9f918e8974",
+    "text": {
+      "en": {
+        "text": "This Thursday, Jezebel's Billiard Hall is offering free hot chocolate with every game of pool.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_19.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.329
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_20.mp3",
+    "hash": "69d4603a471881a6e720c51364b32f54f35432a4b3b90909058204cbd628d60c",
+    "text": {
+      "en": {
+        "text": "Have you been visited by three ghosts in the middle of the night? If so, we'd love to hear about it.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_20.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.989
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_21.mp3",
+    "hash": "2512d34c83a0eb1b69861da1443d043140b0416094a3eba16779fabdf6692ff9",
+    "text": {
+      "en": {
+        "text": "Officials have confirmed that the calamity at last week's tree lighting festival was a result of a giant rat chewing on a junction box.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_21.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 6.4
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_22.mp3",
+    "hash": "e864ad276326f308159319458fc77227c487f0b535490af4ba66da61f7d21535",
+    "text": {
+      "en": {
+        "text": "The New York Municipal Coven is looking for volunteers to spend time with stray familiars in their Soho shelter.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_22.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.695
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_23.mp3",
+    "hash": "66b2b0fe1bc47e50efe80ac48d26d38cf3d1b3740f51dc7fe09051a106f74453",
+    "text": {
+      "en": {
+        "text": "Cadence and the Requiem Boys holiday show sold out in record time. Will the Ixian singer add a second date? Only time will tell.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_23.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 7.471
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_24.mp3",
+    "hash": "16f67851cc14e9d9a29187f735399299bc2fb15ea2e15a39d1052db2c2dc09d3",
+    "text": {
+      "en": {
+        "text": "The New York Oracle wants to wish you and your loved ones a safe Maelstrom and a joyous winter.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_24.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 5.355
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_25.mp3",
+    "hash": "3ac9f700dbe3032ed951fd1e270814e936874925fd294e7aaecc78fd43ab9f25",
+    "text": {
+      "en": {
+        "text": "Santa, wonderful or amazing?",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_25.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 3.553
+  },
+  {
+    "id": "sounds/vo/newscaster/newscaster_seasonal_headline_26_alt_01.mp3",
+    "hash": "4059f5afe7992d9f1fe6f0d10c1585858662ed0ae498b4581540eba83d4fbc9d",
+    "text": {
+      "en": {
+        "text": "This holiday season, the Oracle would like to remind readers not to be like Jacob Lash.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "newscaster/newscaster_seasonal_headline_26_alt_01.mp3",
+          "source": "generated",
+          "model": "gpt-4o-mini-transcribe"
+        }
+      }
+    },
+    "duration": 4.754
+  }
+]

@@ -1,0 +1,52 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Test, type-checker, and linter artifacts
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+pip-wheel-metadata/
+
+# Dependency and tool caches
+.tox/
+.nox/
+.hypothesis/
+
+# Python tooling and editors
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# Local configuration and logs
+.env
+.env.*
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Extracted game assets, generated transcriptions, and external catalogue clones
+data/sources/*
+data/deadlock-transcriptions/

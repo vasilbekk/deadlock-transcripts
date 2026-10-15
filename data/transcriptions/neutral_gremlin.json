@@ -1,0 +1,1394 @@
+[
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_01.mp3",
+    "hash": "217dc2e584f9c5df9529270786d9fd12c454d91967961439e5e73e9bb38a143e",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_01.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.176
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_02.mp3",
+    "hash": "893ec7af35d130482ba6ed73b0570581408983bfbb8768461f65831e270ae39c",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_02.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.28
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_03.mp3",
+    "hash": "f1e0688e7e119d358b8ba1dcdc25646bd4ccaf21d0b440681ba85b10192b85a0",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_03.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.097
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_04.mp3",
+    "hash": "8a9b3c7be3ea13dac65962a091960afd2d82c9d0a24a39f001a5157b41f4ceb2",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_04.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.228
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_05.mp3",
+    "hash": "8c59d930e3173f24c459584715e374249928bb44a968bf006ac794574c926cba",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_05.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.862
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_06.mp3",
+    "hash": "a8b470021cfd39968167299a86075662660de0a8425a809c31dc7024afaeb8d0",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_06.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 2.142
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_07.mp3",
+    "hash": "62672c2118f9ab131eed0e72da692faefa26bdb30b32e6a9e75fd8029ef220fa",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_07.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.646
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_08.mp3",
+    "hash": "4ba50006b1e1cdfe341035778cf73d25be686c3151613149d1e34d776b40608c",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_08.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.384
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_09.mp3",
+    "hash": "beb013e0a22c8397e64455c0a4fc7e076ffe2d8d26febdbdfede075b7dba3e5e",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_09.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.94
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_10.mp3",
+    "hash": "e0d6cd890245a4b9612af6a02c4b975d768d117ab77e09309603458710a0928c",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_10.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.836
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_11.mp3",
+    "hash": "8081ecc52bc84e393204e5bb459f412d47b5f7ba1db7795db2f21e9db3de27d2",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_11.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.967
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_12.mp3",
+    "hash": "31a1495cb517299594010e3b451ce4cd750c8b8df072d389c3b27bae3f76af28",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_12.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.149
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_13.mp3",
+    "hash": "7625faa578e19ff2747d784b52fbe3c11396587bd3bac66d98eb3bdd4b71cfe3",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_13.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.202
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_14.mp3",
+    "hash": "af517fd114a9d8a6734966528613aef94c09edafc2e4117a54c08cc185b033be",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_14.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.176
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_15.mp3",
+    "hash": "ad950395e926f895b60da7b13232507cfc95dd3e5b39e6a6474c78784aa13606",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_15.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.81
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_16.mp3",
+    "hash": "55cace567c345e4bcf657d75acd8d31f28d1a1a5d131bf2db6fbb47b6d2252fd",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_16.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.28
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_17.mp3",
+    "hash": "d375768da38a8d69983385767d372b82d3e1eef4280aa9ef7aa3ae05d5d2a6ea",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_17.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.254
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_18.mp3",
+    "hash": "2daa1b12e485bd8350035b51faa33f391819d578f86c13a063f62c37155ec9b1",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_18.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.045
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_19.mp3",
+    "hash": "300302108d60517fa279ecfec76ff88210a188edcf890eb79c3782e1647e768c",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_19.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.071
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_20.mp3",
+    "hash": "439b187d5a70a4cf2487a1ff3ed5b99790295a5e9d1f5d6a25c1958097c0bd64",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_20.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.097
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_21.mp3",
+    "hash": "32ecdbc1f8eb53f0c77a2e131634a8c0e96894092835d072b639729c62675a77",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_21.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.123
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_attack_22.mp3",
+    "hash": "ff3480fbfec5246c3e51764c4c31322930bb602a1789e03ee0d6c73d0a5d461f",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_attack_22.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.071
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_01.mp3",
+    "hash": "188ae85602926f94e33f4559e9b281d8fcc770333037822527f4f7b32ace2f29",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_01.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.705
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_02.mp3",
+    "hash": "baa662ed0178c9f64de41755bf43bd53e77a6b92a2ee4f6feb377706a0c58b80",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_02.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.81
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_03.mp3",
+    "hash": "1f218cf421c851d168d8e56281f55b2e30ba1d7d3b9ae282d6594c77402404c8",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_03.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.731
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_04.mp3",
+    "hash": "483d10b0874eac8e06cbab56f24fc9d4472c6558016cc4c1da7de2cc3fa760af",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_04.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.758
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_05.mp3",
+    "hash": "67dbf3aec0c1a50c1f805ef6087312687bdb826654fc90fa3da570368726c6ab",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_05.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.653
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_06.mp3",
+    "hash": "bc669e54a0dd405e5615a3fd2f68eddfea20a50f52f14be0e61e388ef99cf13c",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_06.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.81
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_07.mp3",
+    "hash": "9b98ab043c24a292939b8582c23d4e80b20e8e050c4d90c07029bb7c96ae6c2c",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_07.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.888
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_08.mp3",
+    "hash": "082433e1b78f27d8a7d0d67e6677168a2b12f02a010e54100e610ec3a2fa0d18",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_08.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.019
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_09.mp3",
+    "hash": "6442e86da296375760a38f786c32db4164a4d67c2d1e80c476694c977f4c7067",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_09.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.836
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_10.mp3",
+    "hash": "700d68bae54f68a8d632127b94481f23648ac21103f4a7ce5b55f1927759cc33",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_10.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.254
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_11.mp3",
+    "hash": "a63c3c71305bd88127441c454bbc946b278ed9a84b3052ba49955a37300c26b1",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_11.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.679
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_12.mp3",
+    "hash": "809c533e0f851738f5bea03ab9d07dee2e9f49f1e421e8ee10a2d019267ff3da",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_12.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.045
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_13.mp3",
+    "hash": "a13a71ec98277199f135e10b62cca5a9e9f41e3886604c5ee315addd754a8b8b",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_13.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.575
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_14.mp3",
+    "hash": "31f58b56728f9388b5b4bbc08030d704c2fbe6d51d9168e461f440467e6fb3ff",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_14.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.653
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_15.mp3",
+    "hash": "947ee2d4cf00838795654132dbd21961aa842a3d4d2878ef56f09ed7f9a10379",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_15.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.627
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_dies_16.mp3",
+    "hash": "e387c48e6b614fae819b7f274d0a91d51f7ced24a766d8e8a17ce4efcbc49e23",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_dies_16.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.575
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_01.mp3",
+    "hash": "b18f593547ba51a93ffac72853624145ad72facd00ade9d53d6cf913b10beecf",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_01.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 5.46
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_02.mp3",
+    "hash": "b9c65a07763784a93aaf7b50da361e3e38338cde6ba1edca38d6b35ebc39dc2f",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_02.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 4.598
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_03.mp3",
+    "hash": "25cb9489281d8b678758926b8b42f70238baac330583c7ac6e0bc0f3051b2ea4",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_03.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 2.22
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_04.mp3",
+    "hash": "3adfb186babdd2c456ee6816532a75053e94a9cfda8bc5876d5078d619279c86",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_04.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 2.142
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_05.mp3",
+    "hash": "456535ae1a4b9807d3166d3475bcbb802e22fc5b57909070439ee2f2cca9cb59",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_05.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.698
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_06.mp3",
+    "hash": "f20178507e14b53c7a3de449fe2450da0f47448df30cb6764da446110e1ccac7",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_06.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 2.926
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_07.mp3",
+    "hash": "af04f06e09690d8467b055ad22d76100873c090fe5faf11b80bcd87b5b712afa",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_07.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.724
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_08.mp3",
+    "hash": "4085072a20fb7fd2f4c25ce282b8b8fa09e56f9a52ab79f6b9cd1092c2317904",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_08.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.019
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_09.mp3",
+    "hash": "96359ad3e57320572cf12e56b2c0a02157121d0799c1beb099911d90418a9322",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_09.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.306
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_10.mp3",
+    "hash": "d95e086cce1ae13140d97073c32bfc70e1f0fc9deccde0d06aeba71aaaa2eed4",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_10.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 2.247
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_11.mp3",
+    "hash": "1ccdd7aa3e3bc4c8e84575202c7b1b465d8055c38c210673012b10ae10566019",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_11.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.81
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_12.mp3",
+    "hash": "3398bb3615870dd5e8d853d60ccf6e699ad54137e2762d4062bc6de91eed667f",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_12.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.411
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_13.mp3",
+    "hash": "a7d7e1028b45885accacb33c9d4e29ac4383211ccda50036167598175cf4e00b",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_13.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.176
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_14.mp3",
+    "hash": "0d13892f06960c9872f52371ad15886104c14be35056ba001a0a126cd22f9713",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_14.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.993
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_15.mp3",
+    "hash": "118a826c966ff141da52039a2f6a5d4621fadeeb065846c8e970ebcc2f2dc279",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_15.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.045
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_16.mp3",
+    "hash": "dc5e56c1f86822897829cd802505f97f3d8f1555cf8392490c18fc24e8dc9ebf",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_16.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.94
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_idle_17.mp3",
+    "hash": "7cf1b2eb81f03e143f632efcb5168aa2845036616fe62a564488cd247df8bb5f",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_idle_17.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.28
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_01.mp3",
+    "hash": "137d7281e89d02d5ccbf462781decb354f2a536923c1bcb13a4c21cd9f19ff80",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_01.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.836
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_02.mp3",
+    "hash": "ea9cda4ca762b090fc499c9ddd0a19383f0d656128d9b21b69d6a8d68425be42",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_02.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.627
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_03.mp3",
+    "hash": "a22d78d8373cf1b8d081baee84f60c6231695172dbf5e351087e4f93e8d5cc49",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_03.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.123
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_04.mp3",
+    "hash": "4316f2338fcdfd969eb14a03c34426497396fcfe5bed4900f292519ed717a713",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_04.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.914
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_05.mp3",
+    "hash": "50f9c5fd39678e706426edf6f802f3da82f87482b292781fbb910d586b8a7de0",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_05.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.123
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_06.mp3",
+    "hash": "692ea08940f78dff5ff0145e7fc7de8e78ec03507a84b840313aa019a17df39c",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_06.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.306
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_07.mp3",
+    "hash": "bcb7a18587d4ff208e44a07698eefb5085c9fce65089506615791e3a39adbee2",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_07.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.045
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_08.mp3",
+    "hash": "478b4ab2cde4dba345435dda99eb239538a9c63c908a4ab7f9b59177ed6a0c25",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_08.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.784
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_09.mp3",
+    "hash": "664d6cebbb6234efeed30c288df71c3472894c86a9fbb7ad96291d9264467d7e",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_09.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.914
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_10.mp3",
+    "hash": "2e7d7b3bbbc75a1d0e412b95da64f3904ebcb8b8ccb786ee007aea66decfeed5",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_10.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.836
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_11.mp3",
+    "hash": "cbac1287fdf6049166c6c3fce5e53aee186b064710b76c4851a800b6fcceda11",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_11.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.149
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_12.mp3",
+    "hash": "73993b89eed1ddfcbb5664a86f4f1dac0c922c7ef1c82e2814852b383447d73c",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_12.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.888
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_13.mp3",
+    "hash": "835c422564e744b97a3ce53de21514d41ab248b9ca63d64f6213565811dd6b08",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_13.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.045
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_14.mp3",
+    "hash": "ff6a84aeeabb4722f5a794f4df9c646b691023a25e5610386f8f184512988762",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_14.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.019
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_15.mp3",
+    "hash": "4841eeb428c801f5779a4bd1b82c42278b31a9294cfbd016499502d0df88e9eb",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_15.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.627
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_16.mp3",
+    "hash": "da8993e81b9ba571426131f85dc63bd7ace30eaddc304fcb92c9b49596b86b19",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_16.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.914
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_17.mp3",
+    "hash": "74c26288467156cb89d03f65ec7697dbff86a8aa2d06fc8e4997c789983cb05c",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_17.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.097
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_18.mp3",
+    "hash": "e318cf43a4f31669f32f215b12ae846b5ed473d9cf4b7149f3b71383d1149672",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_18.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.862
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_19.mp3",
+    "hash": "d519fb528c2fbf95542bfea6c428b99934b7380038d9e3a2a322415a0dcd6c25",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_19.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.862
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_20.mp3",
+    "hash": "90ca2f732d57dad20b4269899b7dfdc5f91c279c04200e6fa7612ab190cdc1e1",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_20.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.862
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_21.mp3",
+    "hash": "4d1fc9b92fea97896f62892ebe205e7d52c4c80e8d8073e443e786c52d47e742",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_21.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.653
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_22.mp3",
+    "hash": "262844015d604000f753456bd07c8bacb860eb9e2afb006f1595e9b5c40a1951",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_22.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.836
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_23.mp3",
+    "hash": "244fb6a84c706f1abd1301522140b7f683610bf386378e796b6ba358b71ff35b",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_23.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.81
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_24.mp3",
+    "hash": "e2ddcb9ec9aaf8eb2c5647c28553072d312c86c7d917a3e2bef0d09db6097cee",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_24.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.862
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_25.mp3",
+    "hash": "0fa9118c25e7e15bb35b8ca17df40c103355475926e5bf1b0fa9abb8cee4208c",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_25.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.862
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_26.mp3",
+    "hash": "3473a05401dfdf2d60cb35b8a224cdf832bf150a87c916c42f54d538e505bb1b",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_26.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.967
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_27.mp3",
+    "hash": "2e71334f614a1c1736eb27f29b55bbc779b75a20cf5145aab513f774e663ea33",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_27.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.045
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_28.mp3",
+    "hash": "6323dd140777f8d2ff219063ce34ab6a9110ccb84f96ca2a4ae0b99aa3deef32",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_28.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.758
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_29.mp3",
+    "hash": "68bac0edc0d4d59212957c46b552b36d247c0d7ada79a64942f9222c9b516175",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_29.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.836
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_30.mp3",
+    "hash": "cc3369e6752490e306eba972e98ae0e66e2a8cd19a564b2377c72c9e55a3a08f",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_30.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 1.071
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_31.mp3",
+    "hash": "d453db368244c5f022ae590bf248bd23d9d61ad8a6baa9b9e8a17a5930c4f743",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_31.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.627
+  },
+  {
+    "id": "sounds/vo/neutral_gremlin/neutral_gremlin_surprise_32.mp3",
+    "hash": "7174d8abacb53ce5f0d855be936877e85796f96ca0a713e2a5bb3cc7c3085384",
+    "text": {
+      "en": {
+        "text": "[Creep noises]",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "neutral_gremlin/neutral_gremlin_surprise_32.mp3",
+          "source": "manual"
+        }
+      }
+    },
+    "duration": 0.862
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "sounds/vo/nurse/nurse_hero_anim_intro_01.mp3",
+    "hash": "72c970feab3272dbe3fb7737f8f087184a866200db9dd99caef8f025786dc9a4",
+    "text": {
+      "en": {
+        "text": "You will address me as Nurse Harrow.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "nurse/nurse_hero_anim_intro_01.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 2.273
+  },
+  {
+    "id": "sounds/vo/nurse/nurse_hero_anim_intro_02.mp3",
+    "hash": "6b9301263054522e800fe7007eb5ffac85cd9e7c46d253acbf468272dc252457",
+    "text": {
+      "en": {
+        "text": "I tolerate no disobedience.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "nurse/nurse_hero_anim_intro_02.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 2.377
+  },
+  {
+    "id": "sounds/vo/nurse/nurse_hero_anim_intro_03.mp3",
+    "hash": "266573d116aba96007345822abaa97c6e083a9569e1f893e3dc8fee3fd8bbdfe",
+    "text": {
+      "en": {
+        "text": "I know what's good for you.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "nurse/nurse_hero_anim_intro_03.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 1.829
+  },
+  {
+    "id": "sounds/vo/nurse/nurse_hero_anim_intro_06.mp3",
+    "hash": "be8a232a9f55a0082a49eb7856f4f19f2db8e9fa529ff84f4a0d5d92bddbf71d",
+    "text": {
+      "en": {
+        "text": "My results speak for themselves.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "nurse/nurse_hero_anim_intro_06.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 1.907
+  },
+  {
+    "id": "sounds/vo/nurse/nurse_hero_anim_intro_24.mp3",
+    "hash": "e40a6e879e845a21ed493c5e98d553722992706e11703ccf5ca424a1219e0640",
+    "text": {
+      "en": {
+        "text": "Shh, it will all be over soon.",
+        "source": "mcallbosco-deadlock-transciptions",
+        "meta": {
+          "schema_version": "3",
+          "filename": "nurse/nurse_hero_anim_intro_24.mp3",
+          "source": "generated",
+          "model": "gpt-transcribe"
+        }
+      }
+    },
+    "duration": 2.978
+  }
+]

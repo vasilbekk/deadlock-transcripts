@@ -1,0 +1,43 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "deadlock-transcriber"
+version = "0.1.0"
+description = "Build a Deadlock voice-line transcription catalogue from extracted game assets"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[dependency-groups]
+dev = [
+  "pytest>=8.0",
+  "ruff>=0.8",
+]
+
+[project.optional-dependencies]
+whisper = [
+  "av>=11,<19",
+  "faster-whisper>=1.1.0",
+  "nvidia-cublas-cu12==12.4.5.8",
+  "nvidia-cudnn-cu12==9.1.0.70",
+]
+
+[project.scripts]
+deadlock-transcribe = "deadlock_transcriptor.cli:main"
+deadlock-translate = "deadlock_translator.cli:main"
+
+[tool.hatch.build.targets.wheel]
+only-include = ["src"]
+sources = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
