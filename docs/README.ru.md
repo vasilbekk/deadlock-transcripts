@@ -41,6 +41,12 @@ FFmpeg. GPU-транскрибация в проекте настроена дл
 macOS используйте CPU-режим, если CTranslate2 с поддерживаемым backend не настроен
 вручную.
 
+В примере для Windows используется CPU, потому что проект автоматически настраивает
+пути к пакетным CUDA-библиотекам только в Linux. Транскрибацию на NVIDIA GPU можно
+запустить и в Windows после самостоятельной настройки совместимых CUDA и CTranslate2,
+но это выходит за пределы настройки проекта. В Linux пример использует GPU, потому
+что при доступной NVIDIA CUDA это уже настроенный и более быстрый вариант.
+
 ### Windows
 
 Выполните команды в PowerShell из папки проекта:
@@ -208,6 +214,68 @@ uv run deadlock-transcribe ./data/sources ./data/transcriptions \
 ```bash
 uv run deadlock-transcribe ./data/sources ./data/transcriptions --overwrite
 ```
+
+## Аргументы командной строки
+
+### Транскрибация
+
+```bash
+uv run deadlock-transcribe INPUT_DIR OUTPUT_DIR \
+  --model large-v3 \
+  --device cuda \
+  --compute-type float16 \
+  --hero-prompts-file ./data/hero-prompts.json \
+  --initial-prompt "Реплики Deadlock" \
+  --hero-regex '.*/vo/(?P<hero>[^/]+)/.*' \
+  --transcripts-dir ./data/deadlock-transcriptions/transcripts \
+  --transcripts-dir ./data/another-transcript-source \
+  --overwrite
+```
+
+`INPUT_DIR` и `OUTPUT_DIR` — обязательные позиционные аргументы. Все остальные
+аргументы необязательные:
+
+- `--model`: имя модели faster-whisper или путь к локальной модели. По умолчанию:
+  `large-v3`
+- `--device`: `auto`, `cpu` или `cuda`. По умолчанию: `auto`
+- `--compute-type`: тип вычислений faster-whisper, например `int8` или `float16`.
+  По умолчанию: `default`
+- `--hero-prompts-file`: JSON-файл с вариантами имён героев для Whisper. По
+  умолчанию: `data/hero-prompts.json`
+- `--initial-prompt`: текст, добавляемый к подсказке Whisper каждого героя
+- `--hero-regex`: регулярное выражение с именованной группой `hero` для определения
+  героя по пути к аудио
+- `--transcripts-dir`: каталог транскрипций schema-v3, который проверяется до
+  Whisper. Аргумент можно повторять
+- `--overwrite`: не использовать записи, уже лежащие в `OUTPUT_DIR`
+
+### Перевод
+
+```bash
+uv run deadlock-translate INPUT_DIR \
+  --language ru \
+  --model qwen2.5:7b \
+  --endpoint http://127.0.0.1:11434 \
+  --hero orion \
+  --hero haze \
+  --game-localization-file ./data/citadel_generated_vo_russian.txt \
+  --glossary-file ./data/translation-glossary.ru.json \
+  --overwrite
+```
+
+`INPUT_DIR` — обязательный аргумент: папка с JSON-файлами героев. Все остальные
+аргументы необязательные:
+
+- `--language`: целевой ISO-код языка. По умолчанию: `ru`
+- `--model`: имя установленной модели Ollama. По умолчанию: `qwen2.5:7b`
+- `--endpoint`: URL сервера Ollama. По умолчанию: `http://127.0.0.1:11434`
+- `--hero`: имя JSON-файла героя для обработки. Повторяйте его, чтобы разделить
+  работу между компьютерами. Без аргумента обрабатываются все герои
+- `--game-localization-file`: официальный файл локализации, проверяемый до Ollama.
+  Для русского языка по умолчанию: `data/citadel_generated_vo_russian.txt`
+- `--glossary-file`: JSON-файл терминологического глоссария. По умолчанию утилита
+  ищет `data/translation-glossary.<language>.json`
+- `--overwrite`: заменить уже существующие переводы в `text.<language>`
 
 ## Подсказки Whisper
 

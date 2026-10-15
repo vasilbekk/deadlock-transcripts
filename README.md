@@ -41,6 +41,12 @@ FFmpeg. GPU transcription in this project is configured for Linux with NVIDIA CU
 use CPU mode on Windows and macOS unless you have set up a supported CTranslate2
 backend yourself.
 
+The Windows example uses CPU because the project automatically configures the
+packaged CUDA runtime libraries only on Linux. A compatible CUDA and CTranslate2
+setup can also use an NVIDIA GPU on Windows, but its setup is outside this project.
+The Linux example uses GPU because it is the configured, faster option when NVIDIA
+CUDA is available.
+
 ### Windows
 
 Run these commands in PowerShell from the project directory:
@@ -207,6 +213,67 @@ Use `--overwrite` to ignore entries already present in the output directory:
 ```bash
 uv run deadlock-transcribe ./data/sources ./data/transcriptions --overwrite
 ```
+
+## Command-line arguments
+
+### Transcription
+
+```bash
+uv run deadlock-transcribe INPUT_DIR OUTPUT_DIR \
+  --model large-v3 \
+  --device cuda \
+  --compute-type float16 \
+  --hero-prompts-file ./data/hero-prompts.json \
+  --initial-prompt "Deadlock voice lines" \
+  --hero-regex '.*/vo/(?P<hero>[^/]+)/.*' \
+  --transcripts-dir ./data/deadlock-transcriptions/transcripts \
+  --transcripts-dir ./data/another-transcript-source \
+  --overwrite
+```
+
+`INPUT_DIR` and `OUTPUT_DIR` are required positional arguments. All other arguments
+are optional:
+
+- `--model`: faster-whisper model name or a local model path. Default: `large-v3`
+- `--device`: `auto`, `cpu`, or `cuda`. Default: `auto`
+- `--compute-type`: faster-whisper compute type such as `int8` or `float16`.
+  Default: `default`
+- `--hero-prompts-file`: JSON file with hero name variants for Whisper. Default:
+  `data/hero-prompts.json`
+- `--initial-prompt`: text added to every hero-specific Whisper prompt
+- `--hero-regex`: regular expression with a named `hero` group for deriving the
+  hero from an audio path
+- `--transcripts-dir`: schema-v3 transcript directory checked before Whisper. You
+  can repeat this argument
+- `--overwrite`: do not reuse records already present in `OUTPUT_DIR`
+
+### Translation
+
+```bash
+uv run deadlock-translate INPUT_DIR \
+  --language ru \
+  --model qwen2.5:7b \
+  --endpoint http://127.0.0.1:11434 \
+  --hero orion \
+  --hero haze \
+  --game-localization-file ./data/citadel_generated_vo_russian.txt \
+  --glossary-file ./data/translation-glossary.ru.json \
+  --overwrite
+```
+
+`INPUT_DIR` is required and must contain the per-hero JSON files. All other
+arguments are optional:
+
+- `--language`: target ISO language code. Default: `ru`
+- `--model`: installed Ollama model. Default: `qwen2.5:7b`
+- `--endpoint`: Ollama server URL. Default: `http://127.0.0.1:11434`
+- `--hero`: hero JSON filename to process. Repeat it to split work across machines.
+  Without it, the command processes every hero
+- `--game-localization-file`: official localization checked before Ollama. For
+  Russian, the default is `data/citadel_generated_vo_russian.txt`
+- `--glossary-file`: terminology glossary JSON file. By default, the tool looks for
+  `data/translation-glossary.<language>.json`
+- `--overwrite`: replace translations already present under `text.<language>`
 
 ## Whisper prompts
 
