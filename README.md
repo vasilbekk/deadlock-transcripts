@@ -1,10 +1,15 @@
-# Deadlock transcripts
+# Deadlock Transcripts: ready-to-use tools for automatic transcription and translation
 
 [🇷🇺 Перевод документации на русский язык](./docs/README.ru.md)
 
 This repository contains English transcriptions for every voice line of every
-Deadlock hero and Russian translations. You can add more languages locally by
-running `deadlock-translate` with a local Ollama model on your GPU.
+Deadlock hero. You can add more languages locally by running
+`deadlock-translate` with a local Ollama model on your GPU.
+
+## Languages
+
+- English (`en`)
+- Russian (`ru`)
 
 `deadlock-transcriber` provides command-line tools for building and extending the
 catalogue. `deadlock-transcribe` uses extracted game assets and a local Whisper

@@ -1,10 +1,15 @@
-# Deadlock transcripts
+# Deadlock Transcripts: ready-to-use tools for automatic transcription and translation
 
 [English version](../README.md)
 
-В этом репозитории лежат английские транскрибации всех реплик всех героев Deadlock
-и переводы на русский язык. Другие языки можно добавить локально, запустив
-`deadlock-translate` с локальной моделью Ollama на своей видеокарте.
+В этом репозитории лежат английские транскрибации всех реплик всех героев Deadlock.
+Другие языки можно добавить локально, запустив `deadlock-translate` с локальной
+моделью Ollama на своей видеокарте.
+
+## Языки
+
+- English (`en`)
+- Russian (`ru`)
 
 `deadlock-transcriber` предоставляет инструменты командной строки для сборки и
 пополнения каталога. `deadlock-transcribe` обрабатывает распакованные файлы игры
