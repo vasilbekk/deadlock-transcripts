@@ -7,6 +7,10 @@ Python tools for transcription and translation.
 
 More than 70,000 voice-line transcripts are available in English and Russian.
 
+[Ready transcripts](./data/transcriptions) are stored as one JSON file per hero.
+See the [JSON schema description](./docs/transcription.md#output) for record fields
+and language-specific text metadata.
+
 ## Languages
 
 - English (`en`)
