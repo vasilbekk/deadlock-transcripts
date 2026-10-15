@@ -1,15 +1,15 @@
-# Deadlock transcriber
+# Deadlock transcripts
 
 [🇷🇺 Перевод документации на русский язык](./docs/README.ru.md)
 
-`deadlock-transcriber` provides command-line tools to transcribe and translate a
-JSON catalogue of Deadlock voice lines. `deadlock-transcribe` uses extracted game
-assets, takes existing English subtitles where they are available, and sends
-uncovered audio to a local Whisper model. `deadlock-translate` adds translations
-with local Ollama models and available official game localizations.
+This repository contains English transcriptions for every voice line of every
+Deadlock hero and Russian translations. You can add more languages locally by
+running `deadlock-transcriber` with a local Ollama model on your GPU.
 
-The generated multilingual catalogue is published separately as
-`deadlock-transcriptions`.
+`deadlock-transcriber` provides command-line tools for building and extending the
+catalogue. `deadlock-transcribe` uses extracted game assets and a local Whisper
+model. `deadlock-translate` adds translations with local Ollama models and
+available official game localizations.
 
 ## Requirements
 
