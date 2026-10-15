@@ -5,6 +5,8 @@
 Multilingual transcripts for every Deadlock hero voice line, with ready-to-use
 Python tools for transcription and translation.
 
+More than 70,000 voice-line transcripts are available in English and Russian.
+
 ## Languages
 
 - English (`en`)
