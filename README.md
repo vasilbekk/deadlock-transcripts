@@ -2,7 +2,7 @@
 
 [🇷🇺 Перевод документации на русский язык](./docs/README.ru.md)
 
-This repository contains English transcriptions for every voice line of every
+This repository contains multilanguage transcriptions for every voice line of every
 Deadlock hero. You can add more languages locally by running
 `deadlock-translate` with a local Ollama model on your GPU.
 
